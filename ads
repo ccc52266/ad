@@ -7,7 +7,6 @@ DOMAIN-KEYWORD,bytedance
 DOMAIN-KEYWORD,snssdk
 DOMAIN-KEYWORD,pangolin-sdk
 DOMAIN-KEYWORD,ad
-DOMAIN-KEYWORD,fqnovelvod
 DOMAIN-KEYWORD,mgsdk-sign
 DOMAIN-KEYWORD,bdurl
 DOMAIN-KEYWORD,awemeughun.com
